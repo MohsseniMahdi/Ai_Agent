@@ -22,3 +22,5 @@ root_agent = Agent(
     instruction="You are a helpful assistant that tells the current time in cities. Use the 'get_current_time' tool for this purpose.",
     tools=[get_current_time],
 )
+
+### ti check
