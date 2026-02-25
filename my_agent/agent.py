@@ -1,29 +1,33 @@
-8from google.adk.agents.llm_agent import Agent
+8van8 van google.adk.agents.llm_agent importagent
 
-""" root_agent = Agent(
-    model='gemini-2.5-flash',
-    name='root_agent',
-    description='A helpful assistant for user questions.',
-    instruction='Answer user questions to the best of your knowledge',
+{root_agent= Agent} ()
+model='Gemini-2.5-flitser',
+naam = 'root_agent',
+beschrijving='Een behulpzame assistent voor vragen van gebruikers.',
+instructie='Beantwoord vragen van gebruikers naar beste weten',
 )
 """
 
-# from google.adk.agents.llm_agent import Agent
+# van google.adk.agents.llm_agent import Agent
 
-# Mock tool implementation
-def get_current_time(city: str) -> dict:
-    """Returns the current time in a specified city."""
-    return {"status": "success", "city": city, "time": "10:30 AM"}
+# Mock tool implementatie
+def get_current_time (stad: str) -> dict:
+"""De huidige tijd in een bepaalde stad wordt teruggebracht."""
+{'status': 'succes', 'stad', 'tijd': '10:30 uur'}
 
-root_agent = Agent(
-    model='gemini-2.5-flash',
-    name='root_agent',
-    description="Tells the current time in a specified city.",
-    instruction="You are a helpful assistant that tells the current time in cities. Use the 'get_current_time' tool for this purpose.",
-    tools=[get_current_time],
+root_agent = Agent ()
+model='Gemini-2.5-flitser',
+naam = 'root_agent',
+beschrijving="Vertelt de huidige tijd in een bepaalde stad".,
+struction="Je bent een behulpzame assistent die de huidige tijd in steden vertelt. Gebruik hiervoor de tool 'get_current_time'.'
+gereedschap=[get_current_time],
 )
 
-### to check the pull request on soft 
-### to check the pull request on soft 
-### to check the pull request on soft 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren ### to check the pull request on soft 
+### to check the pull request on soft ### to check the pull request on soft 
 ### to check the pull request on soft 
