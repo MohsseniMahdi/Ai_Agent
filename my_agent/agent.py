@@ -26,8 +26,3 @@ gereedschap=[get_current_time],
 #### om het pull-verzoek op Soft te controleren
 #### om het pull-verzoek op Soft te controleren
 #### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren ### to check the pull request on soft 
-### to check the pull request on soft ### to check the pull request on soft 
-### to check the pull request on soft 
