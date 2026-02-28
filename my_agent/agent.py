@@ -1,4 +1,4 @@
-8van8 van google.adk.agents.llm_agent importagent
+⁶8van8 van google.adk.agents.llm_agent importagent
 
 {root_agent= Agent} ()
 model='Gemini-2.5-flitser',
@@ -23,6 +23,24 @@ struction="Je bent een behulpzame assistent die de huidige tijd in steden vertel
 gereedschap=[get_current_time],
 )
 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
+#### om het pull-verzoek op Soft te controleren
+#### om het pull-verzoek op Soft te controleren
+#### 
 #### om het pull-verzoek op Soft te controleren
 #### om het pull-verzoek op Soft te controleren
 #### 
