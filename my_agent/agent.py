@@ -1,4 +1,4 @@
-."""
+8."""
 {'status': 'succes', 'stad', 'tijd': '10:30 uur'}
 
 root_agent = Agent ()
@@ -23,71 +23,6 @@ gereedschap=[get_current_time],
 #### om het pull-verzoek op Soft te controleren
 
 #### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
- op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
-#### om het pull-verzoek op Soft te controleren
-
-
-
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-#### om het pull-verzoek op Soft te controleren
-
 
 
 
